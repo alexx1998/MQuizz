@@ -1,0 +1,11 @@
+name: MQuizz
+version: ${project.version}
+main: com.mordonia.mquizz.MQuizz
+api-version: 1.13
+authors: [AlexxSGames]
+description: A magic quizz plugin for Mordonia!
+website: mordoniamc.com
+commands:
+  quizz:
+    description: /quizz
+    usage: /quizz

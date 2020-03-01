@@ -1,0 +1,5 @@
+com\mordonia\mquizz\events\Listneres.class
+com\mordonia\mquizz\events\Commands.class
+com\mordonia\mquizz\managers\ScoreManager.class
+com\mordonia\mquizz\MQuizz.class
+com\mordonia\mquizz\managers\ScoreMapManager.class
